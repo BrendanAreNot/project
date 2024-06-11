@@ -4,4 +4,8 @@ And again!
 
 And now I'm doing it on the new branch!
 
+<<<<<<< HEAD
 And now I'll try to merge!
+=======
+Can I change the branch then merge?
+>>>>>>> new
