@@ -5,3 +5,6 @@ And again!
 And now I'm doing it on the new branch!
 
 Can I change the branch then merge?
+
+This is the newest version of this file.
+
