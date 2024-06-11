@@ -1,0 +1,1 @@
+Using GitBash, inside Eclipse, to communicate with the GitHub repository.
