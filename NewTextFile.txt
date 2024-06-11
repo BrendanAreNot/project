@@ -4,7 +4,7 @@ And again!
 
 And now I'm doing it on the new branch!
 
-Can I change the branch then merge?
+And now I'll try to merge!
 
-This is the newest version of this file.
+Can I change the branch then merge?
 
