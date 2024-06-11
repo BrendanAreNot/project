@@ -1,2 +1,3 @@
 I'm adding new lines of text using Vim!
 I'm going to do it again!
+And again!
