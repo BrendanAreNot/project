@@ -55,6 +55,7 @@ The "git reset <filename>" command can remove a file that has been added to the 
 
 First, GitBash/Eclipse needs to be linked to GitHub. After navigating to the local project folder, use "git init" to create a repository for that project. Then, use "git add ." to add all of the files and those before it to the index. Then, use "git commit" and "git push origin master" to commit and push them to the remote repository
 
+
 	j. Suppose you’ve been working on the existing my-repo/file.txt, but realize you’ve made
 	poor decisions. You decide to rip out your changes and start over. How would you do
 	this?
